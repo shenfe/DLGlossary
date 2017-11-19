@@ -1,0 +1,17 @@
+type: "MARKDOWN_NOTE"
+folder: "5f5c2b90eac39e19b16b"
+title: "何为机器学习"
+content: '''
+  # 何为机器学习
+  
+  A computer program learns from experience *E* with respect to some task *T* and some performance measure *P*, if its performance on *T*, as measured by *P*, improves with experience *E*.
+  
+  
+'''
+tags: [
+  "machine_learning_definition"
+]
+isStarred: false
+isTrashed: false
+createdAt: "2017-11-18T09:12:37.389Z"
+updatedAt: "2017-11-19T16:00:31.056Z"
