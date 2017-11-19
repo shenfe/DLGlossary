@@ -4,6 +4,11 @@
       "key": "5f5c2b90eac39e19b16b",
       "color": "#1278BD",
       "name": "Default"
+    },
+    {
+      "key": "1cd0903d6333c889a31e",
+      "color": "#3FD941",
+      "name": "ML - Andrew Ng"
     }
   ],
   "version": "1.0"

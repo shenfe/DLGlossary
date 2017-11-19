@@ -1,12 +1,22 @@
 type: "MARKDOWN_NOTE"
-folder: "5f5c2b90eac39e19b16b"
-title: "何为机器学习"
+folder: "1cd0903d6333c889a31e"
+title: "1.3 What is Machine Learning"
 content: '''
-  # 何为机器学习
+  # 1.3 What is Machine Learning
+  
+  ## 定义
   
   A computer program learns from experience *E* with respect to some task *T* and some performance measure *P*, if its performance on *T*, as measured by *P*, improves with experience *E*.
   
+  ## 类型
   
+  ### Supervised Learning
+  
+  监督学习。
+  
+  ### Unsupervised Learning
+  
+  无监督学习。
 '''
 tags: [
   "machine_learning_definition"
@@ -14,4 +24,4 @@ tags: [
 isStarred: false
 isTrashed: false
 createdAt: "2017-11-18T09:12:37.389Z"
-updatedAt: "2017-11-19T16:00:31.056Z"
+updatedAt: "2017-11-19T16:16:41.119Z"
